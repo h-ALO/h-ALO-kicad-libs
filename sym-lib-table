@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "h-ALO")(type "KiCad")(uri "${KIPRJMOD}/h-ALO.kicad_sym")(options "")(descr ""))
+  (lib (name "LOG114")(type "KiCad")(uri "${KIPRJMOD}/LOG114.kicad_sym")(options "")(descr ""))
 )
