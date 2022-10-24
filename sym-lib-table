@@ -5,4 +5,5 @@
   (lib (name "MAX6070")(type "KiCad")(uri "${KIPRJMOD}/sym/max6070.kicad_sym")(options "")(descr ""))
   (lib (name "MCP3564")(type "KiCad")(uri "${KIPRJMOD}/sym/MCP3564.kicad_sym")(options "")(descr ""))
   (lib (name "REF35")(type "KiCad")(uri "${KIPRJMOD}/sym/REF35.kicad_sym")(options "")(descr ""))
+  (lib (name "ADG658")(type "KiCad")(uri "${KIPRJMOD}/sym/ADG658.kicad_sym")(options "")(descr ""))
 )
