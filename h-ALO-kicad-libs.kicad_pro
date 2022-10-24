@@ -333,9 +333,7 @@
       "h-ALO"
     ],
     "pinned_symbol_libs": [
-      "h-ALO",
-      "LOG114",
-      "OPAx277"
+      "REF35"
     ]
   },
   "meta": {
@@ -420,6 +418,14 @@
     [
       "98f78b14-408e-42fa-b862-c24d0c2e0ffa",
       ""
+    ],
+    [
+      "54a03e8d-49c4-493d-b096-cb6540cbfb95",
+      "amp1"
+    ],
+    [
+      "c0a94339-1b3f-4aa6-8700-f2ea1cd91c63",
+      "amp2"
     ]
   ],
   "text_variables": {}

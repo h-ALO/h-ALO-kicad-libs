@@ -1,5 +1,8 @@
 (sym_lib_table
-  (lib (name "h-ALO")(type "KiCad")(uri "${KIPRJMOD}/h-ALO.kicad_sym")(options "")(descr ""))
-  (lib (name "LOG114")(type "KiCad")(uri "${KIPRJMOD}/LOG114.kicad_sym")(options "")(descr ""))
-  (lib (name "OPAx277")(type "KiCad")(uri "${KIPRJMOD}/OPAx277.kicad_sym")(options "")(descr ""))
+  (lib (name "h-ALO")(type "KiCad")(uri "${KIPRJMOD}/sym/h-ALO.kicad_sym")(options "")(descr ""))
+  (lib (name "LOG114")(type "KiCad")(uri "${KIPRJMOD}/sym/LOG114.kicad_sym")(options "")(descr ""))
+  (lib (name "OPAx277")(type "KiCad")(uri "${KIPRJMOD}/sym/OPAx277.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX6070")(type "KiCad")(uri "${KIPRJMOD}/sym/max6070.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP3564")(type "KiCad")(uri "${KIPRJMOD}/sym/MCP3564.kicad_sym")(options "")(descr ""))
+  (lib (name "REF35")(type "KiCad")(uri "${KIPRJMOD}/sym/REF35.kicad_sym")(options "")(descr ""))
 )
