@@ -1122,7 +1122,7 @@
     (property "Value" "10µF" (id 1) (at 167.64 154.94 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 168.6052 152.4 0)
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U" (id 2) (at 168.6052 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 167.64 148.59 0)
