@@ -2603,10 +2603,10 @@
     (uuid f8eec6ab-e58b-4bc8-860c-44e8c1153fd2)
   )
 
-  (global_label "OLED_PWR" (shape input) (at 105.41 146.05 0) (fields_autoplaced)
+  (global_label "OLED_CURRENT" (shape input) (at 105.41 146.05 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 02ae140c-b0de-410c-816d-2a24d27d7453)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 117.5598 145.9706 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 122.156 145.9706 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
