@@ -281,6 +281,10 @@
       (text "VREF" (at -20.32 -8.89 0)
         (effects (font (size 1 1)))
       )
+      (pin input line (at 2.54 -12.7 90) (length 2.54)
+        (name "V-" (effects (font (size 1.27 1.27))))
+        (number "17" (effects (font (size 1.27 1.27))))
+      )
     )
     (symbol "LOG114_0_1"
       (rectangle (start -22.86 19.05) (end 39.37 -10.16)
