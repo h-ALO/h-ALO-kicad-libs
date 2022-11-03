@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "h-ALO")(type "KiCad")(uri "${KIPRJMOD}/../h-ALO.pretty")(options "")(descr ""))
+)
