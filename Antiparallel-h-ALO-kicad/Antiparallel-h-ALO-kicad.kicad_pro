@@ -322,8 +322,28 @@
       ""
     ],
     [
-      "92eb9f7d-57a1-42d7-8b27-1917b2bcc454",
-      "antiparallel_amp"
+      "66ed5c1f-2bc9-42d9-9ccf-4ca97e41e854",
+      "offset_amp7"
+    ],
+    [
+      "1c2fabf1-c142-409a-a673-34a4ba3cfed1",
+      "offset_amp2"
+    ],
+    [
+      "2598535d-5cf2-4b0f-a1a0-77ceb58871b8",
+      "offset_amp3"
+    ],
+    [
+      "6759cfeb-2822-45c8-8d80-bfec0b28e175",
+      "offset_amp4"
+    ],
+    [
+      "8e31c41e-927f-4b28-a86c-242d382bebc8",
+      "offset_amp5"
+    ],
+    [
+      "8318d13f-b69d-4bdc-8866-791c13513383",
+      "offset_amp6"
     ]
   ],
   "text_variables": {}
