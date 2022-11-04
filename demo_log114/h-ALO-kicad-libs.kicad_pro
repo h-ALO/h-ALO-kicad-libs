@@ -333,9 +333,9 @@
       "h-ALO"
     ],
     "pinned_symbol_libs": [
-      "MAX6070",
       "h-ALO",
       "LOG114",
+      "MAX6070",
       "MCP356x",
       "OPAx277"
     ]
