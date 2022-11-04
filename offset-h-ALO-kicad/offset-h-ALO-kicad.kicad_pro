@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Antiparallel-h-ALO-kicad.kicad_pro",
+    "filename": "offset-h-ALO-kicad.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -323,7 +323,7 @@
     ],
     [
       "66ed5c1f-2bc9-42d9-9ccf-4ca97e41e854",
-      "offset_amp7"
+      "offset_amp1"
     ],
     [
       "1c2fabf1-c142-409a-a673-34a4ba3cfed1",
