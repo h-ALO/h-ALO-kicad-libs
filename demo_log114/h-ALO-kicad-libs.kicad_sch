@@ -3872,7 +3872,7 @@
     (property "Value" "RFShield_OnePiece" (id 1) (at 199.39 237.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "RF_Shielding:Wuerth_36503605_60x60mm" (id 2) (at 182.88 238.76 0)
+    (property "Footprint" "RF_Shielding:Wuerth_36503505_50x50mm" (id 2) (at 182.88 238.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 182.88 238.76 0)
@@ -5135,7 +5135,7 @@
       (reference "J4") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical")
     )
     (path "/3f400e23-5a7c-4803-8eb6-e99912d3548b"
-      (reference "J5") (unit 1) (value "RFShield_OnePiece") (footprint "RF_Shielding:Wuerth_36503605_60x60mm")
+      (reference "J5") (unit 1) (value "RFShield_OnePiece") (footprint "RF_Shielding:Wuerth_36503505_50x50mm")
     )
     (path "/f271a946-1b0a-4f3e-a2be-9d7c35f6bc6a"
       (reference "R1") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
