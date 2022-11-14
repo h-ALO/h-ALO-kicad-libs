@@ -236,7 +236,14 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "ADG1438",
+      "ADG658",
+      "h-ALO",
+      "max6070",
+      "MCP356x",
+      "OPAx277"
+    ]
   },
   "meta": {
     "filename": "demo_LTC6268.kicad_pro",
@@ -324,6 +331,50 @@
     [
       "77e0f9b1-26c6-42a9-bd7c-55c4fb27f083",
       "amp0"
+    ],
+    [
+      "a8168bce-da76-43e3-afc2-74dbf65935d3",
+      "OLED_driver0"
+    ],
+    [
+      "f4a29f39-8e0c-4f92-96f5-fa4790ce3a68",
+      "amp1"
+    ],
+    [
+      "6d4e631c-618b-43c2-8b4a-157c56cf5a90",
+      "amp2"
+    ],
+    [
+      "0dca0a42-831f-49cb-858d-e4054d8e107b",
+      "amp3"
+    ],
+    [
+      "f519ce52-1fd9-4a82-8474-72c927e0fd83",
+      "amp4"
+    ],
+    [
+      "9dc22210-20da-4143-9b53-8b46d4c80506",
+      "amp5"
+    ],
+    [
+      "914ff8e8-a5de-4aa8-8c0f-213cbf66b6dd",
+      "OLED_driver1"
+    ],
+    [
+      "401128ec-1f0b-4c9c-afb4-b693bc836b2a",
+      "OLED_driver2"
+    ],
+    [
+      "4b1d4900-d0aa-48bc-9d52-6b2b56dbf1c9",
+      "OLED_driver3"
+    ],
+    [
+      "17b2aaad-0f4a-485e-85a3-3d3056f7d0d3",
+      "OLED_driver4"
+    ],
+    [
+      "6a1bbb83-dcf0-42cf-9af4-f858ca01c2f2",
+      "OLED_driver5"
     ]
   ],
   "text_variables": {}
