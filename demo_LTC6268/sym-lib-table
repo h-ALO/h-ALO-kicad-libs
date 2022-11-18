@@ -5,4 +5,5 @@
   (lib (name "MCP356x")(type "KiCad")(uri "${KIPRJMOD}/../sym/MCP356x.kicad_sym")(options "")(descr ""))
   (lib (name "ADG658")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG658.kicad_sym")(options "")(descr ""))
   (lib (name "ADG1438")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG1438.kicad_sym")(options "")(descr ""))
+  (lib (name "LMP7721")(type "KiCad")(uri "C:/Users/johanast/Documents/RISE/h-ALO-kicad-libs/sym/LMP7721.kicad_sym")(options "")(descr ""))
 )
