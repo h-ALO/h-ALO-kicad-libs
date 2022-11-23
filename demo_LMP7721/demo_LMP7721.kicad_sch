@@ -2494,13 +2494,6 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "OPD3-" (shape input) (at 60.96 69.85 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 1b7a8af3-d66e-46f5-827a-3151219b7b04)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 70.0255 69.9294 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
   (global_label "ADC_SDO" (shape input) (at 73.66 171.45 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 1c73cbfb-ddc3-4d38-895c-a8d0fb2b187d)
@@ -2718,13 +2711,6 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "ADC_CH7" (shape input) (at 121.92 85.09 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 6b289d34-c052-45d7-8e53-2b6c93b2a98a)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 132.7393 85.0106 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
   (global_label "VL" (shape input) (at -25.4 -67.31 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 6e73e544-d5a2-42c4-8ec0-e3cffb629b11)
@@ -2767,6 +2753,13 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
+  (global_label "ADC_CH6" (shape input) (at 121.92 85.09 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 878b6dd2-9812-4660-b25f-a0e116e9aca9)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 132.7393 85.0106 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
   (global_label "OPD6-" (shape input) (at 60.96 39.37 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8ae06839-f171-4233-aa3a-21e48921edb1)
@@ -2778,6 +2771,13 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 8da930ed-5523-46aa-b9c9-74390eaee561)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 284.2321 134.5406 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+  )
+  (global_label "OPD3-" (shape input) (at 60.96 69.85 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 90bd10db-4355-4f4d-8eb9-57d85cf68427)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 70.0255 69.9294 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2872,7 +2872,7 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "ADC_CH6" (shape input) (at 234.315 -102.87 0) (fields_autoplaced)
+  (global_label "ADC_CH0" (shape input) (at 234.315 -102.87 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c1b41549-15fc-4954-a89f-21312578befc)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 245.1343 -102.9494 0)
@@ -4707,11 +4707,17 @@
     (path "/a8168bce-da76-43e3-afc2-74dbf65935d3/4613a36c-204d-413d-8f3e-22027b909f7c"
       (reference "C14") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/77e0f9b1-26c6-42a9-bd7c-55c4fb27f083/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
+      (reference "C15") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
       (reference "C16") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C17") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
+      (reference "C18") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6d4e631c-618b-43c2-8b4a-157c56cf5a90/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
       (reference "C19") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -4719,17 +4725,26 @@
     (path "/6d4e631c-618b-43c2-8b4a-157c56cf5a90/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C20") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/6d4e631c-618b-43c2-8b4a-157c56cf5a90/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
+      (reference "C21") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/0dca0a42-831f-49cb-858d-e4054d8e107b/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
       (reference "C22") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0dca0a42-831f-49cb-858d-e4054d8e107b/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C23") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/0dca0a42-831f-49cb-858d-e4054d8e107b/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
+      (reference "C24") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/f519ce52-1fd9-4a82-8474-72c927e0fd83/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
       (reference "C25") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f519ce52-1fd9-4a82-8474-72c927e0fd83/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C26") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/f519ce52-1fd9-4a82-8474-72c927e0fd83/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
+      (reference "C27") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/9dc22210-20da-4143-9b53-8b46d4c80506/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
       (reference "C28") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -4763,6 +4778,9 @@
     )
     (path "/273877b5-05ff-4bb9-aa95-00e66650cd45"
       (reference "C38") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/9dc22210-20da-4143-9b53-8b46d4c80506/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
+      (reference "C39") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/b5f4955a-19cf-4f6a-8be0-2967cbcfece2"
       (reference "J1") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical")

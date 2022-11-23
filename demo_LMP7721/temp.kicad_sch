@@ -261,8 +261,8 @@
   )
 
   (no_connect (at 212.09 115.57) (uuid 84f2cc01-530f-4d30-8773-6775ded51fed))
-  (no_connect (at 196.85 113.03) (uuid 84f2cc01-530f-4d30-8773-6775ded51fed))
-  (no_connect (at 196.85 118.11) (uuid 84f2cc01-530f-4d30-8773-6775ded51fed))
+  (no_connect (at 196.85 113.03) (uuid 84f2cc01-530f-4d30-8773-6775ded51fee))
+  (no_connect (at 196.85 118.11) (uuid 84f2cc01-530f-4d30-8773-6775ded51fef))
 
   (wire (pts (xy 140.97 62.23) (xy 134.62 62.23))
     (stroke (width 0) (type default) (color 0 0 0 0))
