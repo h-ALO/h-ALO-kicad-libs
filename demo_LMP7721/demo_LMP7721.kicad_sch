@@ -5023,6 +5023,9 @@
     (path "/9dc22210-20da-4143-9b53-8b46d4c80506/2e5ed696-063a-4460-8a0d-4ffeb1f30be5"
       (reference "C57") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/401cdf4e-84ba-44df-9745-fd624e975a68/f73dbc86-0f2d-4c9e-9ff8-6d1bca15f029"
+      (reference "C58") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/f6a7f680-cca8-4085-95d4-21c0db9e7fcf"
       (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
