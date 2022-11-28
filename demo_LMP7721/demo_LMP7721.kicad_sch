@@ -6296,7 +6296,7 @@
       (reference "U36") (unit 1) (value "LM1117-5.0") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")
     )
     (path "/401cdf4e-84ba-44df-9745-fd624e975a68/b7a0510c-30df-4668-b988-f97c117abfbb"
-      (reference "U37") (unit 1) (value "AD623ARZ") (footprint "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm")
+      (reference "U37") (unit 1) (value "AD623ARZ") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
   )
 )

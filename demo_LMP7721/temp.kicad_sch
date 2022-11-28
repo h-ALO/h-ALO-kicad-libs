@@ -449,7 +449,7 @@
     (uuid b7a0510c-30df-4668-b988-f97c117abfbb)
     (property "Reference" "U37" (id 0) (at 194.31 81.28 0))
     (property "Value" "AD623ARZ" (id 1) (at 196.85 83.82 0))
-    (property "Footprint" "Package_SO:SOIC-8W_5.3x5.3mm_P1.27mm" (id 2) (at 185.42 88.9 0)
+    (property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (id 2) (at 185.42 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.analog.com/media/en/technical-documentation/data-sheets/AD623.pdf" (id 3) (at 199.39 99.06 0)
