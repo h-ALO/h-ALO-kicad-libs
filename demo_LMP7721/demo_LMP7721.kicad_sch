@@ -5858,7 +5858,7 @@
       (reference "#PWR0141") (unit 1) (value "GND") (footprint "")
     )
     (path "/77e0f9b1-26c6-42a9-bd7c-55c4fb27f083/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
-      (reference "C1") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/77e0f9b1-26c6-42a9-bd7c-55c4fb27f083/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C2") (unit 1) (value "3.3uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5900,46 +5900,46 @@
       (reference "C14") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/77e0f9b1-26c6-42a9-bd7c-55c4fb27f083/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
-      (reference "C15") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C15") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
-      (reference "C16") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C16") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C17") (unit 1) (value "3.3uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f4a29f39-8e0c-4f92-96f5-fa4790ce3a68/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
-      (reference "C18") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C18") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6d4e631c-618b-43c2-8b4a-157c56cf5a90/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
-      (reference "C19") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C19") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6d4e631c-618b-43c2-8b4a-157c56cf5a90/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C20") (unit 1) (value "3.3uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/6d4e631c-618b-43c2-8b4a-157c56cf5a90/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
-      (reference "C21") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C21") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0dca0a42-831f-49cb-858d-e4054d8e107b/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
-      (reference "C22") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C22") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0dca0a42-831f-49cb-858d-e4054d8e107b/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C23") (unit 1) (value "3.3uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0dca0a42-831f-49cb-858d-e4054d8e107b/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
-      (reference "C24") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C24") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f519ce52-1fd9-4a82-8474-72c927e0fd83/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
-      (reference "C25") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C25") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f519ce52-1fd9-4a82-8474-72c927e0fd83/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C26") (unit 1) (value "3.3uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/f519ce52-1fd9-4a82-8474-72c927e0fd83/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
-      (reference "C27") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C27") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/9dc22210-20da-4143-9b53-8b46d4c80506/94d39b4a-25c4-43c4-82e2-2a8ffb27e8dc"
-      (reference "C28") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C28") (unit 1) (value "22pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/9dc22210-20da-4143-9b53-8b46d4c80506/af68c8ed-0726-4b8b-a4b2-99c41a7aa353"
       (reference "C29") (unit 1) (value "3.3uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -5972,7 +5972,7 @@
       (reference "C38") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/9dc22210-20da-4143-9b53-8b46d4c80506/eb51bb1c-4dd3-4c84-b35a-c37a0abea76f"
-      (reference "C39") (unit 1) (value "C") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C39") (unit 1) (value "1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/77e0f9b1-26c6-42a9-bd7c-55c4fb27f083/7fafc468-257b-474d-9a1a-99e314ef52fc"
       (reference "C40") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
