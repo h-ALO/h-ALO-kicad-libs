@@ -594,10 +594,6 @@
     [
       "6a1bbb83-dcf0-42cf-9af4-f858ca01c2f2",
       "OLED_driver5"
-    ],
-    [
-      "401cdf4e-84ba-44df-9745-fd624e975a68",
-      "temp0"
     ]
   ],
   "text_variables": {}

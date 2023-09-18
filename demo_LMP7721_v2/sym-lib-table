@@ -7,5 +7,4 @@
   (lib (name "ADG658")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG658.kicad_sym")(options "")(descr ""))
   (lib (name "ADG1438")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG1438.kicad_sym")(options "")(descr ""))
   (lib (name "LMP7721")(type "KiCad")(uri "${KIPRJMOD}/../sym/LMP7721.kicad_sym")(options "")(descr ""))
-  (lib (name "LMP7715")(type "KiCad")(uri "C:/Users/JohanSA/Documents/h-ALO-kicad-libs/sym/LMP7715.kicad_sym")(options "")(descr ""))
 )
