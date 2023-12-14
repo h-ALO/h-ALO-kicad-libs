@@ -412,7 +412,9 @@
     "pinned_footprint_libs": [
       "h-ALO"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "h-ALO"
+    ]
   },
   "meta": {
     "filename": "demo_LMP7721.kicad_pro",
