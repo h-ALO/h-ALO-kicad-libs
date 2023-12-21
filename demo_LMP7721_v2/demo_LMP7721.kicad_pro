@@ -460,7 +460,9 @@
     "meta": {
       "version": 3
     },
-    "net_colors": null,
+    "net_colors": {
+      "GND": "rgb(113, 110, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
@@ -550,32 +552,12 @@
       ""
     ],
     [
-      "77e0f9b1-26c6-42a9-bd7c-55c4fb27f083",
-      "amp0"
-    ],
-    [
       "e6cac3af-6348-41bb-bc70-ae2caae5e3f1",
       "OLED_driver2"
     ],
     [
       "f4a29f39-8e0c-4f92-96f5-fa4790ce3a68",
       "amp1"
-    ],
-    [
-      "6d4e631c-618b-43c2-8b4a-157c56cf5a90",
-      "amp2"
-    ],
-    [
-      "0dca0a42-831f-49cb-858d-e4054d8e107b",
-      "amp3"
-    ],
-    [
-      "f519ce52-1fd9-4a82-8474-72c927e0fd83",
-      "amp4"
-    ],
-    [
-      "9dc22210-20da-4143-9b53-8b46d4c80506",
-      "amp5"
     ],
     [
       "f510e4c4-eda3-44fb-b3b3-3654be1d5d7d",
