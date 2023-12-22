@@ -413,7 +413,9 @@
       "h-ALO"
     ],
     "pinned_symbol_libs": [
-      "h-ALO"
+      "h-ALO",
+      "LMP7721",
+      "MCP356x"
     ]
   },
   "meta": {
@@ -461,7 +463,10 @@
       "version": 3
     },
     "net_colors": {
-      "GND": "rgb(113, 110, 255)"
+      "+5V": "rgb(255, 48, 0)",
+      "12V": "rgb(162, 162, 0)",
+      "GND": "rgb(113, 110, 255)",
+      "VL": "rgb(255, 47, 0)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [
@@ -552,12 +557,32 @@
       ""
     ],
     [
+      "96b16e6e-0206-4728-9b96-6e3c70df3e81",
+      "amp2"
+    ],
+    [
       "e6cac3af-6348-41bb-bc70-ae2caae5e3f1",
       "OLED_driver2"
     ],
     [
       "f4a29f39-8e0c-4f92-96f5-fa4790ce3a68",
       "amp1"
+    ],
+    [
+      "1ec6c0c4-228b-411a-a618-666cf5874fdb",
+      "amp3"
+    ],
+    [
+      "cd487a6a-e2d7-45ae-831a-1a01bf79e50a",
+      "amp4"
+    ],
+    [
+      "16d90eb6-90a9-449d-ba1e-a99959f2d45d",
+      "amp5"
+    ],
+    [
+      "03ae56d9-ae3f-49c1-bf28-e626b3ebbbaa",
+      "amp6"
     ],
     [
       "f510e4c4-eda3-44fb-b3b3-3654be1d5d7d",
@@ -584,8 +609,12 @@
       "OLED_driver1"
     ],
     [
-      "edf72635-3e64-4ed1-8519-6031a099040e",
-      "OLED_driver8"
+      "6d7f14d3-762a-4e15-a757-922bc6328d9b",
+      "amp8"
+    ],
+    [
+      "69e5fcb5-09bc-4ce7-ba21-73a6c2eb7cfa",
+      "amp7"
     ]
   ],
   "text_variables": {}
