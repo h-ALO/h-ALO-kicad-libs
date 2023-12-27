@@ -401,7 +401,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
-      "simulation_model_issue": "error",
+      "simulation_model_issue": "warning",
       "unannotated": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
@@ -443,6 +443,23 @@
       },
       {
         "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "REFGND",
+        "pcb_color": "rgb(72, 0, 72)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
         "clearance": 0.4,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -451,7 +468,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Signal",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "pcb_color": "rgb(194, 14, 255)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -464,35 +481,15 @@
     },
     "net_colors": {
       "+5V": "rgb(255, 48, 0)",
-      "12V": "rgb(162, 162, 0)",
-      "GND": "rgb(113, 110, 255)",
+      "12V": "rgb(255, 153, 0)",
+      "GND": "rgb(72, 72, 72)",
       "VL": "rgb(255, 47, 0)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Signal",
-        "pattern": "/OPD1-"
-      },
-      {
-        "netclass": "Signal",
-        "pattern": "/OPD2-"
-      },
-      {
-        "netclass": "Signal",
-        "pattern": "/OPD3-"
-      },
-      {
-        "netclass": "Signal",
-        "pattern": "/OPD4-"
-      },
-      {
-        "netclass": "Signal",
-        "pattern": "/OPD5-"
-      },
-      {
-        "netclass": "Signal",
-        "pattern": "/OPD6-"
+        "netclass": "REFGND",
+        "pattern": "/amp1/REFGND"
       }
     ]
   },

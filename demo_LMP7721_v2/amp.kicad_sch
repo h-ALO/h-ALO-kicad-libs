@@ -897,6 +897,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 70c4f3a5-cfc1-4a28-8f87-2d88c6abc243)
   )
+  (label "REFGND" (at 55.88 62.23 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7d7c3549-bc53-403a-a899-08cdd3ad6570)
+  )
 
   (hierarchical_label "GND" (shape input) (at 81.28 73.66 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
