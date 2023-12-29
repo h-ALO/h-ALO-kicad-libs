@@ -1,118 +1,285 @@
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Aug  8 2023, 05:38:28) [MSC v.1936 64 bit (AMD64)]'
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.7
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x0000022A3F68BDC0>
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U37 as a reference
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U37'
-Located on: ['OLED_driver5']
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Aug  8 2023, 05:38:28) [MSC v.1936 64 bit (AMD64)]'
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.7
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x000001F0E60ECDC0>
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with U43 as a reference
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'U43'
+Located on: ['OLED_driver1']
 With filenames: ['OLED_driver.kicad_sch']
-With sheet_id:['OLED_driver5']
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
-[('U9', ['OLED_driver2']), ('U27', ['OLED_driver3']), ('U33', ['OLED_driver7']), ('U44', ['OLED_driver6']), ('U43', ['OLED_driver1']), ('U30', ['OLED_driver4']), ('U37', ['OLED_driver5'])]
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'OLED_driver5', file:'OLED_driver.kicad_sch'
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['OLED_driver1'], ['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver6'], ['OLED_driver7']]
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['OLED_driver5']
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(6358, 96)
-12-29 12:38:34 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(5919, 96)
-12-29 12:38:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'OLED_driver5', file:'OLED_driver.kicad_sch'
-12-29 12:38:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['OLED_driver1'], ['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver6'], ['OLED_driver7']]
-12-29 12:38:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['OLED_driver5']
-12-29 12:38:49 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
-12-29 12:38:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'OLED_driver5', file:'OLED_driver.kicad_sch'
-12-29 12:38:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['OLED_driver1'], ['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver6'], ['OLED_driver7']]
-12-29 12:38:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['OLED_driver5']
-12-29 12:38:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'OLED_driver5', file:'OLED_driver.kicad_sch'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['OLED_driver1'], ['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver6'], ['OLED_driver7']]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 240:Starting replication of sheets: [['OLED_driver1'], ['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver6'], ['OLED_driver7']]
-on level: ['OLED_driver5']
-with tracks=True, zone=True, text=True, text=True, intersecting=True, remove=True, locked footprints=False, group_only=False
-12-29 12:39:03 root 332:updating GUI message: 'Preparing for replication'
-12-29 12:39:03 root 337:updating GUI with: 0
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Getting the list of source footprints
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:Getting the list of all the remaining footprints
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source tracks
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source zones
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source text items
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 339:Getting source drawing items
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 272:Removing tracks and zones, before footprint placement
-12-29 12:39:03 root 332:updating GUI message: 'Removing zones and tracks'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:4515000, bottom:23000000, Left:238231585, Right:247478488
-12-29 12:39:03 root 337:updating GUI with: 16
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:39715000, bottom:58200000, Left:216231585, Right:225478488
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:71115000, bottom:89600000, Left:239031585, Right:248278488
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:55953000, bottom:74438000, Left:295173985, Right:304420888
-12-29 12:39:03 root 337:updating GUI with: 66
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:11510000, bottom:29995000, Left:301834085, Right:311080988
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:36073000, bottom:54558000, Left:269703985, Right:278950888
-12-29 12:39:03 root 332:updating GUI message: 'Replicating footprints'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 806:Replicating footprints
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver1']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver2']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver3']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver4']
-12-29 12:39:03 root 337:updating GUI with: 63
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver6']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver7']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 280:Removing tracks and zones, after footprint placement
-12-29 12:39:03 root 332:updating GUI message: 'Removing zones and tracks'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:4515000, bottom:23000000, Left:238231585, Right:247478488
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:39715000, bottom:58200000, Left:216231585, Right:225478488
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:71115000, bottom:89600000, Left:239031585, Right:248278488
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:55953000, bottom:74438000, Left:295173985, Right:304420888
-12-29 12:39:03 root 337:updating GUI with: 66
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:11510000, bottom:29995000, Left:301834085, Right:311080988
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:36073000, bottom:54558000, Left:269703985, Right:278950888
-12-29 12:39:03 root 332:updating GUI message: 'Replicating tracks'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 977:Replicating tracks
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver1']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver1'] :[('unconnected-(U37-P0B-Pad11)', 'unconnected-(U43-P0B-Pad11)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U41-Temp-Pad3)'), ('VL', 'VL'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U42-OFFSET_TRIM_2-Pad8)'), ('OLED5', 'OLED1'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U41-NC-Pad7)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U41-DNC-Pad8)'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U42-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U42-NC-Pad5)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U41-DNC-Pad1)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U41-Trim{slash}NR)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('12V', '12V'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U43-NC-Pad7)'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver1/OLED_8V_BUFFERED'), ('Net-(U37-P0A)', 'Net-(U43-P0A)'), ('DPOT_B_SDA', 'DPOT_A_SDA')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver2']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver2'] :[('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U8-OFFSET_TRIM_1-Pad1)'), ('VL', 'VL'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U1-NC-Pad7)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U1-DNC-Pad8)'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U9-P0B-Pad11)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U8-NC-Pad5)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U1-Trim{slash}NR)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U1-DNC-Pad1)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U1-Temp-Pad3)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver2/RELATIVE_2.048V_ABSOLTE_10V'), ('12V', '12V'), ('Net-(U37-P0A)', 'Net-(U9-P0A)'), ('OLED5', 'OLED2'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U8-OFFSET_TRIM_2-Pad8)'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U9-NC-Pad7)'), ('GND', 'VL'), ('DPOT_B_SDA', 'DPOT_A_SDA'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver2/OLED_8V_BUFFERED')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver3']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver3'] :[('Net-(U37-P0A)', 'Net-(U27-P0A)'), ('VL', 'VL'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U27-P0B-Pad11)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U25-Temp-Pad3)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U26-NC-Pad5)'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U25-NC-Pad7)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U25-DNC-Pad1)'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U26-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U26-OFFSET_TRIM_2-Pad8)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U25-Trim{slash}NR)'), ('OLED5', 'OLED3'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U25-DNC-Pad8)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('12V', '12V'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver3/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U27-NC-Pad7)'), ('GND', 'VL'), ('DPOT_B_SDA', 'DPOT_A_SDA'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver3/OLED_8V_BUFFERED')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver4']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver4'] :[('VL', 'VL'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U29-OFFSET_TRIM_2-Pad8)'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver4/OLED_8V_BUFFERED'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U29-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U28-DNC-Pad8)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U28-Temp-Pad3)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U28-DNC-Pad1)'), ('Net-(U37-P0A)', 'Net-(U30-P0A)'), ('OLED5', 'OLED4'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U29-NC-Pad5)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('12V', '12V'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U28-NC-Pad7)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U28-Trim{slash}NR)'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver4/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U30-NC-Pad7)'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U30-P0B-Pad11)'), ('GND', 'VL'), ('DPOT_B_SDA', 'DPOT_A_SDA')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver6']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver6'] :[('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U40-OFFSET_TRIM_2-Pad8)'), ('VL', 'VL'), ('OLED5', 'OLED6'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U39-Temp-Pad3)'), ('DPOT_B_SDA', 'DPOT_B_SDA'), ('Net-(U37-P0A)', 'Net-(U44-P0A)'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver6/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U40-OFFSET_TRIM_1-Pad1)'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver6/OLED_8V_BUFFERED'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U44-P0B-Pad11)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U39-DNC-Pad8)'), ('DPOT_B_SCL', 'DPOT_B_SCL'), ('GND', 'GND'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U44-NC-Pad7)'), ('12V', '12V'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U39-DNC-Pad1)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U39-Trim{slash}NR)'), ('GND', 'VL'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U40-NC-Pad5)'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U39-NC-Pad7)')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver7']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver7'] :[('VL', 'VL'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U32-OFFSET_TRIM_1-Pad1)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U31-Trim{slash}NR)'), ('DPOT_B_SDA', 'DPOT_B_SDA'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U31-DNC-Pad8)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U32-NC-Pad5)'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U32-OFFSET_TRIM_2-Pad8)'), ('DPOT_B_SCL', 'DPOT_B_SCL'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U31-Temp-Pad3)'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U33-P0B-Pad11)'), ('OLED5', 'OLED7'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U31-NC-Pad7)'), ('Net-(U37-P0A)', 'Net-(U33-P0A)'), ('GND', 'GND'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver7/OLED_8V_BUFFERED'), ('12V', '12V'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U31-DNC-Pad1)'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U33-NC-Pad7)'), ('GND', 'VL'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver7/RELATIVE_2.048V_ABSOLTE_10V')]
-12-29 12:39:03 root 337:updating GUI with: 83
-12-29 12:39:03 root 332:updating GUI message: 'Replicating zones'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1047:Replicating zones
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver1']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver1'] :[('unconnected-(U37-P0B-Pad11)', 'unconnected-(U43-P0B-Pad11)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U41-Temp-Pad3)'), ('VL', 'VL'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U42-OFFSET_TRIM_2-Pad8)'), ('OLED5', 'OLED1'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U41-NC-Pad7)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U41-DNC-Pad8)'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U42-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U42-NC-Pad5)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U41-DNC-Pad1)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U41-Trim{slash}NR)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('12V', '12V'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U43-NC-Pad7)'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver1/OLED_8V_BUFFERED'), ('Net-(U37-P0A)', 'Net-(U43-P0A)'), ('DPOT_B_SDA', 'DPOT_A_SDA')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver2']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver2'] :[('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U8-OFFSET_TRIM_1-Pad1)'), ('VL', 'VL'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U1-NC-Pad7)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U1-DNC-Pad8)'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U9-P0B-Pad11)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U8-NC-Pad5)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U1-Trim{slash}NR)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U1-DNC-Pad1)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U1-Temp-Pad3)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver2/RELATIVE_2.048V_ABSOLTE_10V'), ('12V', '12V'), ('Net-(U37-P0A)', 'Net-(U9-P0A)'), ('OLED5', 'OLED2'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U8-OFFSET_TRIM_2-Pad8)'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U9-NC-Pad7)'), ('GND', 'VL'), ('DPOT_B_SDA', 'DPOT_A_SDA'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver2/OLED_8V_BUFFERED')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver3']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver3'] :[('Net-(U37-P0A)', 'Net-(U27-P0A)'), ('VL', 'VL'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U27-P0B-Pad11)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U25-Temp-Pad3)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U26-NC-Pad5)'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U25-NC-Pad7)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U25-DNC-Pad1)'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U26-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U26-OFFSET_TRIM_2-Pad8)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U25-Trim{slash}NR)'), ('OLED5', 'OLED3'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U25-DNC-Pad8)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('12V', '12V'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver3/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U27-NC-Pad7)'), ('GND', 'VL'), ('DPOT_B_SDA', 'DPOT_A_SDA'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver3/OLED_8V_BUFFERED')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver4']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver4'] :[('VL', 'VL'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U29-OFFSET_TRIM_2-Pad8)'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver4/OLED_8V_BUFFERED'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U29-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U28-DNC-Pad8)'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U28-Temp-Pad3)'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U28-DNC-Pad1)'), ('Net-(U37-P0A)', 'Net-(U30-P0A)'), ('OLED5', 'OLED4'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U29-NC-Pad5)'), ('GND', 'GND'), ('DPOT_B_SCL', 'DPOT_A_SCL'), ('12V', '12V'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U28-NC-Pad7)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U28-Trim{slash}NR)'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver4/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U30-NC-Pad7)'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U30-P0B-Pad11)'), ('GND', 'VL'), ('DPOT_B_SDA', 'DPOT_A_SDA')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver6']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver6'] :[('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U40-OFFSET_TRIM_2-Pad8)'), ('VL', 'VL'), ('OLED5', 'OLED6'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U39-Temp-Pad3)'), ('DPOT_B_SDA', 'DPOT_B_SDA'), ('Net-(U37-P0A)', 'Net-(U44-P0A)'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver6/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U40-OFFSET_TRIM_1-Pad1)'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver6/OLED_8V_BUFFERED'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U44-P0B-Pad11)'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U39-DNC-Pad8)'), ('DPOT_B_SCL', 'DPOT_B_SCL'), ('GND', 'GND'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U44-NC-Pad7)'), ('12V', '12V'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U39-DNC-Pad1)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U39-Trim{slash}NR)'), ('GND', 'VL'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U40-NC-Pad5)'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U39-NC-Pad7)')]
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver7']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver7'] :[('VL', 'VL'), ('unconnected-(U35-OFFSET_TRIM_1-Pad1)', 'unconnected-(U32-OFFSET_TRIM_1-Pad1)'), ('Net-(U34-Trim{slash}NR)', 'Net-(U31-Trim{slash}NR)'), ('DPOT_B_SDA', 'DPOT_B_SDA'), ('unconnected-(U34-DNC-Pad8)', 'unconnected-(U31-DNC-Pad8)'), ('unconnected-(U35-NC-Pad5)', 'unconnected-(U32-NC-Pad5)'), ('unconnected-(U35-OFFSET_TRIM_2-Pad8)', 'unconnected-(U32-OFFSET_TRIM_2-Pad8)'), ('DPOT_B_SCL', 'DPOT_B_SCL'), ('unconnected-(U34-Temp-Pad3)', 'unconnected-(U31-Temp-Pad3)'), ('unconnected-(U37-P0B-Pad11)', 'unconnected-(U33-P0B-Pad11)'), ('OLED5', 'OLED7'), ('unconnected-(U34-NC-Pad7)', 'unconnected-(U31-NC-Pad7)'), ('Net-(U37-P0A)', 'Net-(U33-P0A)'), ('GND', 'GND'), ('/OLED_driver5/OLED_8V_BUFFERED', '/OLED_driver7/OLED_8V_BUFFERED'), ('12V', '12V'), ('unconnected-(U34-DNC-Pad1)', 'unconnected-(U31-DNC-Pad1)'), ('unconnected-(U37-NC-Pad7)', 'unconnected-(U33-NC-Pad7)'), ('GND', 'VL'), ('/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver7/RELATIVE_2.048V_ABSOLTE_10V')]
-12-29 12:39:03 root 332:updating GUI message: 'Replicating text'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1136:Replicating text
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver1']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver2']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver3']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver4']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver6']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver7']
-12-29 12:39:03 root 332:updating GUI message: 'Replicating drawings'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1187:Replicating drawings
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver1']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver2']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver3']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver4']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver6']
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver7']
-12-29 12:39:03 root 332:updating GUI message: 'Removing duplicates'
-12-29 12:39:03 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
+With sheet_id:['OLED_driver1']
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('U9', ['OLED_driver2']), ('U37', ['OLED_driver5']), ('U27', ['OLED_driver3']), ('U33', ['OLED_driver7']), ('U44', ['OLED_driver6']), ('U43', ['OLED_driver1']), ('U30', ['OLED_driver4'])]
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'OLED_driver1', file:'OLED_driver.kicad_sch'
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver5'], ['OLED_driver6'], ['OLED_driver7']]
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['OLED_driver1']
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(3437, 138)
+12-29 21:43:27 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(2998, 138)
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'OLED_driver1', file:'OLED_driver.kicad_sch'
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver5'], ['OLED_driver6'], ['OLED_driver7']]
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['OLED_driver1']
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:35 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'OLED_driver1', file:'OLED_driver.kicad_sch'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver5'], ['OLED_driver6'], ['OLED_driver7']]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 240:Starting replication of sheets: [['OLED_driver2'], ['OLED_driver3'], ['OLED_driver4'], ['OLED_driver5'], ['OLED_driver6'], ['OLED_driver7']]
+on level: ['OLED_driver1']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=True, locked footprints=False, group_only=True
+12-29 21:43:38 root 332:updating GUI message: 'Preparing for replication'
+12-29 21:43:38 root 337:updating GUI with: 0
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Getting the list of source footprints
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:Getting the list of all the remaining footprints
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source tracks
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1305:Track group: , src group:
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source zones
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source text items
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 339:Getting source drawing items
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 272:Removing tracks and zones, before footprint placement
+12-29 21:43:38 root 332:updating GUI message: 'Removing zones and tracks'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:40300000, bottom:49546903, Left:209739999, Right:228224999
+12-29 21:43:38 root 337:updating GUI with: 16
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:51875000, bottom:61121903, Left:209339999, Right:227824999
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:64675000, bottom:73921903, Left:209339999, Right:227824999
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:76875001, bottom:86121904, Left:209521802, Right:228006802
+12-29 21:43:38 root 337:updating GUI with: 66
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:89731250, bottom:98978153, Left:209865000, Right:228350000
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:102875000, bottom:112121903, Left:210121802, Right:228606802
+12-29 21:43:38 root 332:updating GUI message: 'Replicating footprints'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 806:Replicating footprints
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver2']
+12-29 21:43:38 root 337:updating GUI with: 8
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver3']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver4']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver5']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver6']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['OLED_driver7']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 280:Removing tracks and zones, after footprint placement
+12-29 21:43:38 root 332:updating GUI message: 'Removing zones and tracks'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:40300000, bottom:49546903, Left:209739999, Right:228224999
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:51875000, bottom:61121903, Left:209339999, Right:227824999
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:64675000, bottom:73921903, Left:209339999, Right:227824999
+12-29 21:43:38 root 337:updating GUI with: 50
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:76875001, bottom:86121904, Left:209521802, Right:228006802
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:89731250, bottom:98978153, Left:209865000, Right:228350000
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1245:Remove bounding box top:102875000, bottom:112121903, Left:210121802, Right:228606802
+12-29 21:43:38 root 332:updating GUI message: 'Replicating tracks'
+12-29 21:43:38 root 337:updating GUI with: 0
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 977:Replicating tracks
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver2']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver2'] :[('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U8-OFFSET_TRIM_2-Pad8)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U1-Trim{slash}NR)'), ('VL', 'VL'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U1-Temp-Pad3)'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U8-NC-Pad5)'), ('DPOT_A_SCL', 'DPOT_A_SCL'), ('GND', 'VL'), ('12V', '12V'), ('OLED1', 'OLED2'), ('GND', 'GND'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U1-DNC-Pad8)'), ('DPOT_A_SDA', 'DPOT_A_SDA'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U1-NC-Pad7)'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U8-OFFSET_TRIM_1-Pad1)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver2/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U9-P0B-Pad11)'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver2/OLED_8V_BUFFERED'), ('Net-(U43-P0A)', 'Net-(U9-P0A)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U1-DNC-Pad1)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U9-NC-Pad7)')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver3']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver3'] :[('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver3/OLED_8V_BUFFERED'), ('VL', 'VL'), ('Net-(U41-Trim{slash}NR)', 'Net-(U25-Trim{slash}NR)'), ('OLED1', 'OLED3'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U26-OFFSET_TRIM_2-Pad8)'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U26-NC-Pad5)'), ('DPOT_A_SCL', 'DPOT_A_SCL'), ('GND', 'VL'), ('12V', '12V'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U26-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U25-DNC-Pad1)'), ('GND', 'GND'), ('DPOT_A_SDA', 'DPOT_A_SDA'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U25-Temp-Pad3)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver3/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U25-NC-Pad7)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U27-NC-Pad7)'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U25-DNC-Pad8)'), ('Net-(U43-P0A)', 'Net-(U27-P0A)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U27-P0B-Pad11)')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver4']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver4'] :[('Net-(U43-P0A)', 'Net-(U30-P0A)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U28-Trim{slash}NR)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U28-DNC-Pad1)'), ('VL', 'VL'), ('OLED1', 'OLED4'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver4/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U28-NC-Pad7)'), ('DPOT_A_SCL', 'DPOT_A_SCL'), ('GND', 'VL'), ('12V', '12V'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U29-OFFSET_TRIM_1-Pad1)'), ('GND', 'GND'), ('DPOT_A_SDA', 'DPOT_A_SDA'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U29-NC-Pad5)'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U29-OFFSET_TRIM_2-Pad8)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U30-NC-Pad7)'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U28-Temp-Pad3)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U30-P0B-Pad11)'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U28-DNC-Pad8)'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver4/OLED_8V_BUFFERED')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver5']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver5'] :[('unconnected-(U41-NC-Pad7)', 'unconnected-(U34-NC-Pad7)'), ('VL', 'VL'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U35-OFFSET_TRIM_2-Pad8)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U34-Trim{slash}NR)'), ('OLED1', 'OLED5'), ('DPOT_A_SDA', 'DPOT_B_SDA'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver5/OLED_8V_BUFFERED'), ('12V', '12V'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U35-NC-Pad5)'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U34-DNC-Pad8)'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U34-Temp-Pad3)'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U35-OFFSET_TRIM_1-Pad1)'), ('GND', 'GND'), ('Net-(U43-P0A)', 'Net-(U37-P0A)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U37-NC-Pad7)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U37-P0B-Pad11)'), ('DPOT_A_SCL', 'DPOT_B_SCL'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U34-DNC-Pad1)')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver6']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver6'] :[('unconnected-(U41-Temp-Pad3)', 'unconnected-(U39-Temp-Pad3)'), ('VL', 'VL'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U39-NC-Pad7)'), ('Net-(U43-P0A)', 'Net-(U44-P0A)'), ('OLED1', 'OLED6'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U40-NC-Pad5)'), ('DPOT_A_SDA', 'DPOT_B_SDA'), ('GND', 'VL'), ('12V', '12V'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U39-DNC-Pad8)'), ('GND', 'GND'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U44-P0B-Pad11)'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U40-OFFSET_TRIM_1-Pad1)'), ('DPOT_A_SCL', 'DPOT_B_SCL'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U40-OFFSET_TRIM_2-Pad8)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver6/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U39-DNC-Pad1)'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver6/OLED_8V_BUFFERED'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U44-NC-Pad7)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U39-Trim{slash}NR)')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['OLED_driver7']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver7'] :[('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U32-OFFSET_TRIM_1-Pad1)'), ('OLED1', 'OLED7'), ('VL', 'VL'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U32-NC-Pad5)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U31-Trim{slash}NR)'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U32-OFFSET_TRIM_2-Pad8)'), ('DPOT_A_SDA', 'DPOT_B_SDA'), ('GND', 'VL'), ('12V', '12V'), ('GND', 'GND'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver7/OLED_8V_BUFFERED'), ('DPOT_A_SCL', 'DPOT_B_SCL'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U31-NC-Pad7)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver7/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U31-DNC-Pad8)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U31-DNC-Pad1)'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U31-Temp-Pad3)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U33-NC-Pad7)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U33-P0B-Pad11)'), ('Net-(U43-P0A)', 'Net-(U33-P0A)')]
+12-29 21:43:38 root 332:updating GUI message: 'Replicating zones'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1047:Replicating zones
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver2']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver2'] :[('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U8-OFFSET_TRIM_2-Pad8)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U1-Trim{slash}NR)'), ('VL', 'VL'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U1-Temp-Pad3)'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U8-NC-Pad5)'), ('DPOT_A_SCL', 'DPOT_A_SCL'), ('GND', 'VL'), ('12V', '12V'), ('OLED1', 'OLED2'), ('GND', 'GND'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U1-DNC-Pad8)'), ('DPOT_A_SDA', 'DPOT_A_SDA'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U1-NC-Pad7)'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U8-OFFSET_TRIM_1-Pad1)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver2/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U9-P0B-Pad11)'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver2/OLED_8V_BUFFERED'), ('Net-(U43-P0A)', 'Net-(U9-P0A)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U1-DNC-Pad1)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U9-NC-Pad7)')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver3']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver3'] :[('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver3/OLED_8V_BUFFERED'), ('VL', 'VL'), ('Net-(U41-Trim{slash}NR)', 'Net-(U25-Trim{slash}NR)'), ('OLED1', 'OLED3'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U26-OFFSET_TRIM_2-Pad8)'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U26-NC-Pad5)'), ('DPOT_A_SCL', 'DPOT_A_SCL'), ('GND', 'VL'), ('12V', '12V'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U26-OFFSET_TRIM_1-Pad1)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U25-DNC-Pad1)'), ('GND', 'GND'), ('DPOT_A_SDA', 'DPOT_A_SDA'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U25-Temp-Pad3)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver3/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U25-NC-Pad7)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U27-NC-Pad7)'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U25-DNC-Pad8)'), ('Net-(U43-P0A)', 'Net-(U27-P0A)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U27-P0B-Pad11)')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver4']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver4'] :[('Net-(U43-P0A)', 'Net-(U30-P0A)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U28-Trim{slash}NR)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U28-DNC-Pad1)'), ('VL', 'VL'), ('OLED1', 'OLED4'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver4/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U28-NC-Pad7)'), ('DPOT_A_SCL', 'DPOT_A_SCL'), ('GND', 'VL'), ('12V', '12V'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U29-OFFSET_TRIM_1-Pad1)'), ('GND', 'GND'), ('DPOT_A_SDA', 'DPOT_A_SDA'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U29-NC-Pad5)'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U29-OFFSET_TRIM_2-Pad8)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U30-NC-Pad7)'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U28-Temp-Pad3)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U30-P0B-Pad11)'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U28-DNC-Pad8)'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver4/OLED_8V_BUFFERED')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver5']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver5'] :[('unconnected-(U41-NC-Pad7)', 'unconnected-(U34-NC-Pad7)'), ('VL', 'VL'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U35-OFFSET_TRIM_2-Pad8)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U34-Trim{slash}NR)'), ('OLED1', 'OLED5'), ('DPOT_A_SDA', 'DPOT_B_SDA'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver5/OLED_8V_BUFFERED'), ('12V', '12V'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U35-NC-Pad5)'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U34-DNC-Pad8)'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U34-Temp-Pad3)'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U35-OFFSET_TRIM_1-Pad1)'), ('GND', 'GND'), ('Net-(U43-P0A)', 'Net-(U37-P0A)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver5/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U37-NC-Pad7)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U37-P0B-Pad11)'), ('DPOT_A_SCL', 'DPOT_B_SCL'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U34-DNC-Pad1)')]
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver6']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver6'] :[('unconnected-(U41-Temp-Pad3)', 'unconnected-(U39-Temp-Pad3)'), ('VL', 'VL'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U39-NC-Pad7)'), ('Net-(U43-P0A)', 'Net-(U44-P0A)'), ('OLED1', 'OLED6'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U40-NC-Pad5)'), ('DPOT_A_SDA', 'DPOT_B_SDA'), ('GND', 'VL'), ('12V', '12V'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U39-DNC-Pad8)'), ('GND', 'GND'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U44-P0B-Pad11)'), ('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U40-OFFSET_TRIM_1-Pad1)'), ('DPOT_A_SCL', 'DPOT_B_SCL'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U40-OFFSET_TRIM_2-Pad8)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver6/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U39-DNC-Pad1)'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver6/OLED_8V_BUFFERED'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U44-NC-Pad7)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U39-Trim{slash}NR)')]
+12-29 21:43:38 root 337:updating GUI with: 83
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['OLED_driver7']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['OLED_driver7'] :[('unconnected-(U42-OFFSET_TRIM_1-Pad1)', 'unconnected-(U32-OFFSET_TRIM_1-Pad1)'), ('OLED1', 'OLED7'), ('VL', 'VL'), ('unconnected-(U42-NC-Pad5)', 'unconnected-(U32-NC-Pad5)'), ('Net-(U41-Trim{slash}NR)', 'Net-(U31-Trim{slash}NR)'), ('unconnected-(U42-OFFSET_TRIM_2-Pad8)', 'unconnected-(U32-OFFSET_TRIM_2-Pad8)'), ('DPOT_A_SDA', 'DPOT_B_SDA'), ('GND', 'VL'), ('12V', '12V'), ('GND', 'GND'), ('/OLED_driver1/OLED_8V_BUFFERED', '/OLED_driver7/OLED_8V_BUFFERED'), ('DPOT_A_SCL', 'DPOT_B_SCL'), ('unconnected-(U41-NC-Pad7)', 'unconnected-(U31-NC-Pad7)'), ('/OLED_driver1/RELATIVE_2.048V_ABSOLTE_10V', '/OLED_driver7/RELATIVE_2.048V_ABSOLTE_10V'), ('unconnected-(U41-DNC-Pad8)', 'unconnected-(U31-DNC-Pad8)'), ('unconnected-(U41-DNC-Pad1)', 'unconnected-(U31-DNC-Pad1)'), ('unconnected-(U41-Temp-Pad3)', 'unconnected-(U31-Temp-Pad3)'), ('unconnected-(U43-NC-Pad7)', 'unconnected-(U33-NC-Pad7)'), ('unconnected-(U43-P0B-Pad11)', 'unconnected-(U33-P0B-Pad11)'), ('Net-(U43-P0A)', 'Net-(U33-P0A)')]
+12-29 21:43:38 root 332:updating GUI message: 'Replicating text'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1136:Replicating text
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver2']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver3']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver4']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver5']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver6']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['OLED_driver7']
+12-29 21:43:38 root 332:updating GUI message: 'Replicating drawings'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1187:Replicating drawings
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver2']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver3']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver4']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver5']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver6']
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['OLED_driver7']
+12-29 21:43:38 root 332:updating GUI message: 'Removing duplicates'
+12-29 21:43:38 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
