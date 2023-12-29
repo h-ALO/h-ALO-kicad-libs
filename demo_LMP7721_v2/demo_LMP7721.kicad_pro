@@ -483,13 +483,17 @@
       "+5V": "rgb(255, 48, 0)",
       "12V": "rgb(255, 153, 0)",
       "GND": "rgb(72, 72, 72)",
-      "VL": "rgb(255, 47, 0)"
+      "VL": "rgb(194, 0, 194)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
         "netclass": "REFGND",
-        "pattern": "/amp1/REFGND"
+        "pattern": "/amp*/REFGND"
+      },
+      {
+        "netclass": "REFGND",
+        "pattern": "/OLED_driver*/OLED_8V_BUFFERED"
       }
     ]
   },
