@@ -554,7 +554,7 @@
     "netclass_patterns": [
       {
         "netclass": "REFGND",
-        "pattern": "/amp*/REFGND"
+        "pattern": "/amp*/REFGND_0.5V"
       },
       {
         "netclass": "REFGND",

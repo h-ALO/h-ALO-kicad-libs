@@ -1250,7 +1250,7 @@
   (symbol (lib_id "h-ALO:OLED_Driver_Outline") (at 231.14 48.26 0) (unit 1)
     (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c62c08d8-3f21-414f-84e3-4ae84b39d364)
-    (property "Reference" "U60" (at 245.11 48.26 0)
+    (property "Reference" "U54" (at 245.11 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "~" (at 231.14 48.26 0)
@@ -1268,19 +1268,19 @@
     (instances
       (project "demo_LMP7721"
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8"
-          (reference "U60") (unit 1)
-        )
-        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/e6cac3af-6348-41bb-bc70-ae2caae5e3f1"
           (reference "U54") (unit 1)
         )
-        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f510e4c4-eda3-44fb-b3b3-3654be1d5d7d"
+        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/e6cac3af-6348-41bb-bc70-ae2caae5e3f1"
           (reference "U55") (unit 1)
         )
-        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/8bff62a6-fc7d-44fb-b97b-9de46e2c148d"
+        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/f510e4c4-eda3-44fb-b3b3-3654be1d5d7d"
           (reference "U56") (unit 1)
         )
-        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/dc6225af-ab3b-4f92-85a8-bbacde7fcb35"
+        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/8bff62a6-fc7d-44fb-b97b-9de46e2c148d"
           (reference "U57") (unit 1)
+        )
+        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/dc6225af-ab3b-4f92-85a8-bbacde7fcb35"
+          (reference "U60") (unit 1)
         )
         (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0/4c2db487-bd87-47b3-84dc-a4783a117dcd"
           (reference "U58") (unit 1)
