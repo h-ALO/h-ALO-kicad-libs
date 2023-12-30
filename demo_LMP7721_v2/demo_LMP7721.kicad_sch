@@ -1951,8 +1951,6 @@
     (uuid fe4891a8-2f45-4f09-9b87-cda714fd7cd6)
   )
 
-  (no_connect (at 461.01 100.33) (uuid a31264bc-f3da-4242-aec6-4c22418b72ac))
-
   (wire (pts (xy 200.66 44.45) (xy 191.77 44.45))
     (stroke (width 0) (type default))
     (uuid 0058c1d6-2fc5-4307-b93d-3da930920360)
@@ -6257,6 +6255,13 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 5ccdcc2e-1f63-4402-b9e9-80df634e36cb)
     (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 450.1907 92.6306 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
+  (global_label "ADC_CH7" (shape input) (at 461.01 100.33 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 5e957003-31ab-4e7e-9e29-5200d4bd7b72)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 449.6186 100.33 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
