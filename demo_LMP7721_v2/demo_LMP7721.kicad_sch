@@ -7191,6 +7191,31 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 31.75 236.22 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 2d171466-f171-4a94-8cae-7f825a61926a)
+    (property "Reference" "H7" (at 34.29 233.6799 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole_Pad" (at 34.29 236.2199 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad" (at 31.75 236.22 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 31.75 236.22 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a737c54f-e80a-4dc5-8360-24f94b330c5c))
+    (instances
+      (project "demo_LMP7721"
+        (path "/17826947-3d7e-4fb5-aaf8-088579fef2d0"
+          (reference "H7") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 30.48 355.6 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d37c7db-840f-4a3f-860e-0eb2b372d44d)

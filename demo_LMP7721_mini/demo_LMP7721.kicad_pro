@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 1.0
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -565,7 +565,7 @@
       "version": 3
     },
     "net_colors": {
-      "GND": "rgb(72, 72, 72)"
+      "unconnected-(U69-NC-Pad1)": "rgb(72, 72, 72)"
     },
     "netclass_assignments": null,
     "netclass_patterns": [
@@ -596,6 +596,10 @@
       {
         "netclass": "OLED",
         "pattern": "OLED*"
+      },
+      {
+        "netclass": "Signal",
+        "pattern": "/IN-"
       }
     ]
   },
@@ -633,7 +637,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
@@ -658,66 +662,6 @@
     [
       "17826947-3d7e-4fb5-aaf8-088579fef2d0",
       ""
-    ],
-    [
-      "b4b10c2d-f2ab-4c1c-9ed1-34a3f61ff1d8",
-      "OLED_driver1"
-    ],
-    [
-      "e6cac3af-6348-41bb-bc70-ae2caae5e3f1",
-      "OLED_driver2"
-    ],
-    [
-      "f510e4c4-eda3-44fb-b3b3-3654be1d5d7d",
-      "OLED_driver3"
-    ],
-    [
-      "8bff62a6-fc7d-44fb-b97b-9de46e2c148d",
-      "OLED_driver4"
-    ],
-    [
-      "4c2db487-bd87-47b3-84dc-a4783a117dcd",
-      "OLED_driver5"
-    ],
-    [
-      "92a21ec7-65e4-4441-9889-ca296adeb06c",
-      "OLED_driver6"
-    ],
-    [
-      "dc6225af-ab3b-4f92-85a8-bbacde7fcb35",
-      "OLED_driver7"
-    ],
-    [
-      "f4a29f39-8e0c-4f92-96f5-fa4790ce3a68",
-      "amp1"
-    ],
-    [
-      "96b16e6e-0206-4728-9b96-6e3c70df3e81",
-      "amp2"
-    ],
-    [
-      "1ec6c0c4-228b-411a-a618-666cf5874fdb",
-      "amp3"
-    ],
-    [
-      "cd487a6a-e2d7-45ae-831a-1a01bf79e50a",
-      "amp4"
-    ],
-    [
-      "16d90eb6-90a9-449d-ba1e-a99959f2d45d",
-      "amp5"
-    ],
-    [
-      "03ae56d9-ae3f-49c1-bf28-e626b3ebbbaa",
-      "amp6"
-    ],
-    [
-      "69e5fcb5-09bc-4ce7-ba21-73a6c2eb7cfa",
-      "amp7"
-    ],
-    [
-      "6d7f14d3-762a-4e15-a757-922bc6328d9b",
-      "amp8"
     ]
   ],
   "text_variables": {}
