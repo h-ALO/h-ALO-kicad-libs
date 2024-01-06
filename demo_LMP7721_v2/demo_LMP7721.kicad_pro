@@ -450,8 +450,8 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "12V",
-        "pcb_color": "rgb(255, 153, 0)",
+        "name": "13V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 153, 0)",
         "track_width": 0.4,
         "via_diameter": 0.8,
@@ -468,7 +468,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "5V",
-        "pcb_color": "rgb(255, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 0, 0)",
         "track_width": 0.4,
         "via_diameter": 0.8,
@@ -484,8 +484,25 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
+        "name": "BATT",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(255, 229, 191)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
         "name": "GLOBALGND",
-        "pcb_color": "rgb(72, 72, 72)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "via_diameter": 0.8,
@@ -502,7 +519,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "OLED",
-        "pcb_color": "rgb(0, 255, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 255, 0)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -519,7 +536,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "OPD_CATHODE",
-        "pcb_color": "rgb(0, 132, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 132, 0)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -536,7 +553,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "REFGND",
-        "pcb_color": "rgb(0, 72, 72)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -553,7 +570,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Signal",
-        "pcb_color": "rgb(194, 14, 255)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
@@ -570,7 +587,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "VL",
-        "pcb_color": "rgb(132, 0, 0)",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(132, 0, 0)",
         "track_width": 0.4,
         "via_diameter": 0.8,
@@ -597,8 +614,8 @@
         "pattern": "OPD*_CATHODE"
       },
       {
-        "netclass": "12V",
-        "pattern": "12V"
+        "netclass": "13V",
+        "pattern": "13V"
       },
       {
         "netclass": "5V",
@@ -615,6 +632,10 @@
       {
         "netclass": "GLOBALGND",
         "pattern": "GND"
+      },
+      {
+        "netclass": "BATT",
+        "pattern": "BATT*"
       }
     ]
   },
