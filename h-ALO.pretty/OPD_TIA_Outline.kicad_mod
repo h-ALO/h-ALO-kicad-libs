@@ -13,5 +13,5 @@
     (tstamp 1ca4e66a-afcd-42ce-95a0-2dd52a13246b)
   )
   (fp_rect (start -11 -6) (end 15 6)
-    (stroke (width 0.1) (type default)) (fill none) (layer "F.SilkS") (tstamp 1a65dbcf-8c1c-4b53-974c-28560273b454))
+    (stroke (width 0.1) (type default)) (fill none) (layer "Dwgs.User") (tstamp 1a65dbcf-8c1c-4b53-974c-28560273b454))
 )
