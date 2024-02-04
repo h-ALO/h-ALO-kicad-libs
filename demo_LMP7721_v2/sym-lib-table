@@ -7,4 +7,7 @@
   (lib (name "ADG658")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG658.kicad_sym")(options "")(descr ""))
   (lib (name "ADG1438")(type "KiCad")(uri "${KIPRJMOD}/../sym/ADG1438.kicad_sym")(options "")(descr ""))
   (lib (name "LMP7721")(type "KiCad")(uri "${KIPRJMOD}/../sym/LMP7721.kicad_sym")(options "")(descr ""))
+  (lib (name "SPX2941")(type "KiCad")(uri "C:/Users/Johan/Documents/h-ALO-kicad-libs/sym/SPX2941.kicad_sym")(options "")(descr ""))
+  (lib (name "LD29300")(type "KiCad")(uri "C:/Users/Johan/Documents/h-ALO-kicad-libs/sym/LD29300.kicad_sym")(options "")(descr ""))
+  (lib (name "LDL212")(type "KiCad")(uri "C:/Users/Johan/Documents/h-ALO-kicad-libs/sym/LDL212.kicad_sym")(options "")(descr ""))
 )
