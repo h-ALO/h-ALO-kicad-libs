@@ -2,7 +2,7 @@
 
   (uuid 4a7f8802-da37-45c3-9e86-15ebdd4239b3)
 
-  (paper "A4")
+  (paper "A3")
 
   (lib_symbols
     (symbol "Device:C" (pin_numbers hide) (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
@@ -857,11 +857,6 @@
     (fill (type none))
     (uuid 24930297-5aa2-488d-a62b-dbe9ab7a1e11)
   )
-  (rectangle (start 102.87 99.06) (end 163.83 132.08)
-    (stroke (width 0) (type default))
-    (fill (type none))
-    (uuid 3d9f22a6-bdad-4a0a-93a0-4104405834c9)
-  )
   (arc (start 156.21 69.85) (mid 163.8113 75.6288) (end 165.1 85.09)
     (stroke (width 0) (type default))
     (fill (type none))
@@ -884,11 +879,25 @@
   )
 
   (text_box "10.1 Layout Guidelines\nIn order to capitalize on the LMP7721's ultra-low input bias current, careful circuit layout and assembly are\nrequired. Guarding techniques are highly recommended to reduce parasitic leakage current by isolating the\nLMP7721's input from large voltage gradients across the PC board. A guard is a low-impedance conductor that\nsurrounds an input line and its potential is raised to the input line's voltage. The input pins should be fully\nguarded as shown in Figure 54. The guard traces should completely encircle the input connections. In addition,\nthey should be located on both sides of the PCB and be connected together.\nTo further guard the inputs from the supply pins, the two N/C pins may be connected to the guard trace which\nwill provide guarding down to the leadframe level.\nSolder mask should not cover the input and the guard area including guard traces on either side of the PCB.\nKeep switching power supplies and other noise-producing devices away from the input area."
-    (at 312.42 25.4 0) (size 110.49 41.91)
+    (at 228.6 25.4 0) (size 110.49 41.91)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 37f3abb8-5e8f-453c-9d37-545b493cdf08)
+  )
+  (text_box "IN = Cathode\nIN ~= GND, virtual short\nIN < GND\nVout = openloop_gain * (GND - IN)\nVout = openloop_gain * (positive_number)"
+    (at 106.68 100.33 0) (size 34.29 21.59)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 7d773a82-59cb-47de-a276-8ba76a6e6a8d)
+  )
+  (text_box "OPD current: 0.6 - 1.2 uA"
+    (at 109.22 128.27 0) (size 34.29 7.62)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid da1610e5-9880-4613-81e4-c79d0da02626)
   )
 
   (text "I_PD" (at 144.78 118.11 0)
@@ -919,11 +928,6 @@
     (at 153.67 86.36 0)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 85ec7bf3-cdff-4536-bd2e-71eaf213e91f)
-  )
-  (text "IN = Cathode\nIN ~= GND, virtual short\nIN < GND\nVout = openloop_gain * (GND - IN)\nVout = openloop_gain * (positive_number)\n"
-    (at 104.14 110.49 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid a2fd9fcd-12c7-40b8-b13c-a917c892cdbf)
   )
   (text "500mV" (at 160.02 71.12 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -1468,7 +1472,7 @@
     (property "Reference" "C16" (at 200.66 64.77 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "22pF" (at 201.93 62.23 90)
+    (property "Value" "270pF" (at 201.93 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "h-ALO:FB_C_0603_1608Metric" (at 203.2 63.5 0)
